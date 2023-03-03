@@ -42,4 +42,4 @@ else
   else
     echo "No se ha instalado el paquete $package."
   fi
-fi
+fi 
